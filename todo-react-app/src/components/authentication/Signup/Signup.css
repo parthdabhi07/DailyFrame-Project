@@ -1,0 +1,27 @@
+.signup {
+    position: relative;
+    z-index: 1;
+    top: 7.1rem; /* 100px */
+    left: 20rem; /* 400px */
+    background: #f8f9fa;
+    width: 350px;
+}
+
+@media (max-width: 48rem) { /* 768px */
+    .signup {
+        top: 6rem; /* 50px */
+        left: 0;
+        /* padding: 0.625rem; 10px */
+        margin: 0 1rem;
+        width: 300px;
+    }
+    .form-box {
+        width: 280px;
+    }
+}
+
+.tandc {
+
+    justify-content: center;
+    align-items: center;
+}

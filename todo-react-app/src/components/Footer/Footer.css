@@ -1,0 +1,14 @@
+.footer-container {
+
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a7d6f9;
+}
+
+.footer-container img {
+
+    height: 4rem;
+}

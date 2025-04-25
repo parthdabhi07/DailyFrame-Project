@@ -1,0 +1,25 @@
+.welcome-container {
+
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    flex-wrap: wrap-reverse;
+    
+    height: 100vh;
+    background-color: #f8f9fa;
+    background-image: url("../assets/welcome_bg.jpg");
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+@media (max-width: 48rem) { /* 768px */
+    .welcome-container {
+        display: flex;
+        justify-content:center;
+    }
+}
