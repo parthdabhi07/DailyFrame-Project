@@ -37,11 +37,11 @@
 
 Here are some screenshots of the project:
 
-![Screenshot 1]()
-*Description of Screenshot 1*
+![Screenshot 1](https://github.com/parthdabhi07/DailyFrame-Project/blob/main/screenshot/Screenshot%202025-04-25%20160155.png)
+Home Page
 
-![Screenshot 2](path-to-screenshot2.png)
-*Description of Screenshot 2*
+![Screenshot 2](https://github.com/parthdabhi07/DailyFrame-Project/blob/main/screenshot/Screenshot%202025-04-25%20160302.png)
+User Dashboard Page
 
 ---
 
